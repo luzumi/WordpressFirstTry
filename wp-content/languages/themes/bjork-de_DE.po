@@ -1,0 +1,450 @@
+# Translation of Themes - Björk in German
+# This file is distributed under the same license as the Themes - Björk package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-07 09:49:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Björk\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Björk"
+msgstr "Björk"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Loop"
+msgstr "Loop"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title"
+msgstr "Kein Titel"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Canvas"
+msgstr "Leere Leinwand"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Tertiary"
+msgstr "Quartär zu Tertiär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Secondary"
+msgstr "Quartär zu Sekundär "
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Primary"
+msgstr "Quartär zu Primär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Foreground"
+msgstr "Quartär zu Vordergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Background"
+msgstr "Quartär zu Hintergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Quaternary"
+msgstr "Tertiär zu Quartär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Secondary"
+msgstr "Tertiär zu Sekundär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Primary"
+msgstr "Tertiär zu Primär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Foreground"
+msgstr "Tertiär zu Vordergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Background"
+msgstr "Tertiär zu Hintergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Tertiary"
+msgstr "Sekundär zu Tertiär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Quaternary"
+msgstr "Sekundär zu Quartär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Primary"
+msgstr "Sekundär zu Primär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Foreground"
+msgstr "Sekundär zu Vordergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Background"
+msgstr "Sekundär zu Hintergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Tertiary"
+msgstr "Primär zu Tertiär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Quaternary"
+msgstr "Primät zu Quartär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Secondary"
+msgstr "Primär zu Sekundär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Foreground"
+msgstr "Primär zu Vordergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Background"
+msgstr "Primär zu Hintergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Tertiary"
+msgstr "Hintergrund zu Tertiär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Quaternary"
+msgstr "Hintergrund zu Quartär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Secondary"
+msgstr "Hintergrund zu Sekundär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Primary"
+msgstr "Hintergrund zu Primär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Foreground"
+msgstr "Hintergrund zu Vordergrund"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Tertiary"
+msgstr "Vordergrund zu Tertiär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Quaternary"
+msgstr "Vordergrund zu Quartär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Secondary"
+msgstr "Vordergrund zu Sekundär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Primary"
+msgstr "Vordergrund zu Primär"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Background"
+msgstr "Vordergrund zu Hintergrund"
+
+#: theme.json styles/burton.json styles/clayton.json styles/cliff.json
+#: styles/dolores.json styles/helena.json styles/leon.json styles/simone.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "Quartär"
+
+#: theme.json styles/burton.json styles/clayton.json styles/cliff.json
+#: styles/dolores.json styles/helena.json styles/leon.json styles/simone.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: theme.json styles/burton.json styles/clayton.json styles/cliff.json
+#: styles/dolores.json styles/helena.json styles/leon.json styles/simone.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: theme.json styles/burton.json styles/clayton.json styles/cliff.json
+#: styles/dolores.json styles/helena.json styles/leon.json styles/simone.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primär"
+
+#: theme.json styles/burton.json styles/clayton.json styles/cliff.json
+#: styles/dolores.json styles/helena.json styles/leon.json styles/simone.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Hintergrund"
+
+#: theme.json styles/burton.json styles/clayton.json styles/cliff.json
+#: styles/dolores.json styles/helena.json styles/leon.json styles/simone.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Vordergrund"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Monospace"
+msgstr "System-Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Serif"
+msgstr "System-Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Sans Serif"
+msgstr "System-Sans-Serif"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 6"
+msgstr "Überschrift 6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 5"
+msgstr "Überschrift 5"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 4"
+msgstr "Überschrift 4"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr "Überschrift 3"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr "Überschrift 2"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr "Überschrift 1"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigantisch"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Riesig"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Extra groß"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Groß"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mittel"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Klein"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Winzig"
+
+#: styles/simone.json
+msgctxt "Style variation name"
+msgid "Simone"
+msgstr "Simone"
+
+#: styles/leon.json
+msgctxt "Style variation name"
+msgid "Léon"
+msgstr "Léon"
+
+#: styles/helena.json
+msgctxt "Style variation name"
+msgid "Helena"
+msgstr "Helena"
+
+#: styles/dolores.json
+msgctxt "Style variation name"
+msgid "Dolores"
+msgstr "Dolores"
+
+#: styles/cliff.json
+msgctxt "Style variation name"
+msgid "Cliff"
+msgstr "Cliff"
+
+#: styles/clayton.json
+msgctxt "Style variation name"
+msgid "Clayton"
+msgstr "Clayton"
+
+#: styles/burton.json
+msgctxt "Style variation name"
+msgid "Burton"
+msgstr "Burton"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Kommentare"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Mobile)"
+msgstr "Header (Mobil)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar (Desktop)"
+msgstr "Seitenleiste (Desktop)"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: patterns/blog-excerpt.php
+msgctxt "Pattern title"
+msgid "Blog posts shown as excerpts."
+msgstr "Blogbeiträge angezeigt als Textauszüge."
+
+#: patterns/general-columns-with-paragraphs.php
+msgctxt "Pattern title"
+msgid "Columns with paragraphs of text."
+msgstr "Spalten mit Textabschnitten."
+
+#: patterns/cta-vertical.php
+msgctxt "Pattern title"
+msgid "Vertical call to action."
+msgstr "Vertikaler Call-to-Action."
+
+#: patterns/cta-horizontal.php
+msgctxt "Pattern title"
+msgid "Horizontal call to action."
+msgstr "Horizontaler Call-to-Action."
+
+#: patterns/general-follow-us-horizontal.php
+msgctxt "Pattern title"
+msgid "Follow us section with a horizontal layout."
+msgstr "Folge-uns-Abschnitt mit horizontalem Layout."
+
+#: patterns/general-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials section."
+msgstr "Testimonial-Abschnitt."
+
+#: patterns/general-follow-us-vertical.php
+msgctxt "Pattern title"
+msgid "Follow us section with a vertical layout."
+msgstr "Folge-uns-Abschnitt mit vertikalem Layout."
+
+#: functions.php:47
+msgid "Björk General"
+msgstr "Björk Allgemein"
+
+#: functions.php:44
+msgid "Björk Call to Action"
+msgstr "Björk Call-to-Action"
+
+#: functions.php:41
+msgid "Björk Blog"
+msgstr "Björk Blog"
+
+#: patterns/blog-list.php
+msgctxt "Pattern title"
+msgid "Blog post list with featured image, post date, and title."
+msgstr "Beitragsliste mit Beitragsbild, Beitragsdatum und Titel."
+
+#: patterns/general-recent-posts.php
+msgctxt "Pattern title"
+msgid "Section with recent posts displayed horizontally."
+msgstr "Abschnitt mit horizontaler Anzeige der neuesten Beiträge."
+
+#: patterns/general-featured-items.php
+msgctxt "Pattern title"
+msgid "Featured items with a image, heading, paragraph and button."
+msgstr "Hervorgehobene Elemente mit einem Bild, Überschrift, Absatz und Button."
+
+#: patterns/blog-grid-cols-3.php
+msgctxt "Pattern title"
+msgid "Three column blog post grid with featured image, post date, and title."
+msgstr "Dreispaltiges Beitrags-Raster mit Beitragsbild, Beitragsdatum und Titel."
+
+#: patterns/blog-grid-cols-2.php
+msgctxt "Pattern title"
+msgid "Two column blog post grid with featured image, post date, and title."
+msgstr "Zweispaltiges Beitrags-Raster mit Beitragsbild, Beitragsdatum und Titel."
+
+#: patterns/general-demo-content.php
+msgctxt "Pattern title"
+msgid "Demo content for the theme, and default content for the Home template."
+msgstr "Demo-Inhalt für das Theme und Standardinhalte für das Template der Startseite."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://andersnoren.se"
+msgstr "https://andersnoren.se"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://andersnoren.se/teman/bjork-wordpress-theme/"
+msgstr "https://andersnoren.se/teman/bjork-wordpress-theme/"

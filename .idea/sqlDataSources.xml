@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="ef0c904a-bbc2-40a2-bf49-a55b9ac01d05" name="DDL Mapping">
+      <data-sources db="71917544-b54a-4a94-b5c3-523d19f5739d" ddl="c54bbaf8-163e-4ec1-a2e2-9afb1cb9c139" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="c414c795-1a51-4379-b3c2-1e5f00369aac" name="wordpress@192.168-84.252 Mapping">
+      <data-sources db="aa3d4206-4231-4a2d-b271-5003249fc5c6" ddl="9d082cab-44ec-4c10-9ccc-8ab53e6a4b7c" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
